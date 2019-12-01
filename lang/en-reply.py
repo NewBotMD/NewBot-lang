@@ -326,7 +326,7 @@ AsPh = '''💬 {}
 
 SudoOnle = "Sorry it's for BasicSudo"
 Chlang = "Choose the language - اختر اللغه"
-
+Dulang = "Done update bor lang"
 
 lang ={"ar":"🇮🇶AR","en":"🇺🇸EN"}
 
