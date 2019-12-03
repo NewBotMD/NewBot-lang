@@ -342,3 +342,7 @@ Rate :- {rate}'''
 
 DsetIDShow = "<b>Doen change ID text</b>"
 Ddelid = "Done delete ID text"
+
+
+NoBots = "Sorry there are no bots in the group"
+LenBots = "there {} bots in the group i will kick them"
