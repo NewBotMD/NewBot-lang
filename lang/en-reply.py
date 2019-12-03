@@ -330,3 +330,15 @@ Dulang = "Done update bor lang"
 
 lang ={"ar":"🇮🇶AR","en":"🇺🇸EN"}
 
+
+
+IDnPT = '''ID :- {id}
+Username :- {us}
+Rank :- {rk}
+Msgs :- {msgs}
+Edits :- {edits}
+Rate :- {rate}'''
+
+
+DsetIDShow = "<b>Doen change ID text</b>"
+Ddelid = "Done delete ID text"
