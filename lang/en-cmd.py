@@ -70,11 +70,7 @@ Ukickme = "disable kickme"
 LreplyBOT = "enable replysbot"
 UreplyBOT = "disable replysbot"
 
-Lreplysbot = "enable id"
-Ureplysbot = "disable id"
 
-LreplysbotPH = "^enable id photo$"
-UreplysbotPH = "^disable id photo$"
 
 ShowSudos = "^sudos$"
 setSudoC = "^setsudosorder (.*)$"
@@ -290,3 +286,18 @@ Chlang = "change lang"
 
 ID = "id"
 idus = "^id @(.*)$"
+
+setIDC = "^setid (.*)"
+RsetIDC = "setid "
+delIDC = "^delid$"
+
+LIDpt = "enable pt id"
+UIDpt = "disabl pt id"
+
+LID = "enable id"
+UID = "disabl id"
+
+
+
+LIDPH = "^enable id photo$"
+UIDPH = "^disable id photo$"
