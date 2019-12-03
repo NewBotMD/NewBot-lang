@@ -302,3 +302,7 @@ LIDPH = "^enable id photo$"
 UIDPH = "^disable id photo$"
 
 deletebots = "^kick bots$"
+
+
+NoBots = "Sorry there are no bots in the group"
+LenBots = "there {} bots in the group i will kick them"
