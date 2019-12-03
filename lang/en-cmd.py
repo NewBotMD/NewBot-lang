@@ -298,6 +298,7 @@ LID = "enable id"
 UID = "disabl id"
 
 
-
 LIDPH = "^enable id photo$"
 UIDPH = "^disable id photo$"
+
+deletebots = "^kick bots$"
