@@ -291,8 +291,8 @@ setIDC = "^setid (.*)"
 RsetIDC = "setid "
 delIDC = "^delid$"
 
-LIDpt = "enable pt id"
-UIDpt = "disabl pt id"
+LIDpt = "enable bt id"
+UIDpt = "disabl bt id"
 
 LID = "enable id"
 UID = "disabl id"
