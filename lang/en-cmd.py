@@ -303,4 +303,4 @@ UIDPH = "^disable id photo$"
 
 deletebots = "^kick bots$"
 
-
+Ubot = "update bot"
