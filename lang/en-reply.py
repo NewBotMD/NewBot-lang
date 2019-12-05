@@ -346,3 +346,5 @@ Ddelid = "Done delete ID text"
 
 NoBots = "Sorry there are no bots in the group"
 LenBots = "there {} bots in the group i will kick them"
+
+Wres = "The bot will restart please wait"
