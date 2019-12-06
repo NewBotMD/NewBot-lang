@@ -361,3 +361,6 @@ CKgps = "Check groups"
 
 
 Dckg = "\nDone check the groups and remove {}"
+
+
+ckpr = "Checking groups may take a little time"
