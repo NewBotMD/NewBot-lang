@@ -262,12 +262,18 @@ OwnerO = """Owner orders :-
 setwelcome <words>
 flood (msgs|time) <number>
 
-(enable|disable) <welcome | flood | replys | replysbot | kickme | id>"""
+setid <words>
+delid
+
+(enable|disable) <welcome | flood | replys | replysbot | kickme | id | ph id | bt id>"""
 
 CreatorO = """Creator orders :-
 
 (set|rem) owner <username | reply | id>
-(enable|disable) <pin>"""
+(enable|disable) <pin>
+
+kick <deleted|bots>
+change lang"""
 
 SudosO = """sudo orders :-
 
@@ -328,7 +334,7 @@ SudoOnle = "Sorry it's for BasicSudo"
 Chlang = "Choose the language - اختر اللغه"
 Dulang = "Done update bor lang"
 
-lang ={"ar":"🇮🇶AR","en":"🇺🇸EN"}
+lang ={"ar":"🇮🇶 AR-Classic","en":"🇺🇸EN","arem":"🇮🇶 AR-Emoji"}
 
 
 
@@ -348,3 +354,10 @@ NoBots = "Sorry there are no bots in the group"
 LenBots = "there {} bots in the group i will kick them"
 
 Wres = "The bot will restart please wait"
+
+MoreInfo = "More info?"
+
+CKgps = "Check groups"
+
+
+Dckg = "\nDone check the groups and remove {}"
