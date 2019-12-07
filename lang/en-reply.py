@@ -364,3 +364,10 @@ Dckg = "\nDone check the groups and remove {}"
 
 
 ckpr = "Checking groups may take a little time"
+
+true2 = "✔️"
+false2 = "✖️"
+
+settingsRes = "<b>Group restrict settings </b>\n<b>✔️ - unlocked | ✖️ - locked</b>"
+
+
