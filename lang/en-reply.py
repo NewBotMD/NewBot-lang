@@ -370,4 +370,19 @@ false2 = "✖️"
 
 settingsRes = "<b>Group restrict settings </b>\n<b>✔️ - unlocked | ✖️ - locked</b>"
 
+pk = "⏪"
+fr = "⏩"
 
+hide = "Hide"
+
+sors = "The bot [{}] from source [NewBot](t.me/nbbot)"
+
+dellink = "Deactivate link for Telegram"
+
+botstart = """Hello :- {},
+{}, protection for groups you can add me by <a href=\"http://t.me/{}?startgroup=botstart\">click here</a>"""
+
+
+botstart = """👋🏻꒐ Welcome to {} protection bot for groups
+⏺꒐ you can add me by <a href=\"http://t.me/{}?startgroup=botstart\">click here</a>
+⎯ ⎯ ⎯ ⎯"""
