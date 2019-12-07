@@ -304,3 +304,5 @@ UIDPH = "^disable ph id$"
 deletebots = "^kick bots$"
 
 Ubot = "update bot"
+
+settingsCmdRes = "^restrict settings$"
