@@ -306,3 +306,9 @@ deletebots = "^kick bots$"
 Ubot = "update bot"
 
 settingsCmdRes = "^restrict settings$"
+delrpmsg = "del"
+
+sors = "^source$"
+
+dellink = "^del link$|^delete link$|^deactivate link$"
+dellink2 = "Deactivate link"
