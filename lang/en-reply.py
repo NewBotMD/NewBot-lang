@@ -386,3 +386,10 @@ botstart = """Hello :- {},
 botstart = """👋🏻꒐ Welcome to {} protection bot for groups
 ⏺꒐ you can add me by <a href=\"http://t.me/{}?startgroup=botstart\">click here</a>
 ⎯ ⎯ ⎯ ⎯"""
+
+Tban = "ban"
+Tres = "mute"
+
+fset = "flood set :- {}"
+Tfset = "You can change flood set to (ban |mute)"
+
