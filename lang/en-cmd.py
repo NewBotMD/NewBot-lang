@@ -282,7 +282,7 @@ replysbotus = "^replysbot @(.*)$"
 Ulang = "update lang"
 
 
-Chlang = "change lang"
+Chlang = "^change lang$"
 
 ID = "id"
 idus = "^id @(.*)$"
@@ -312,3 +312,5 @@ sors = "^source$"
 
 dellink = "^del link$|^delete link$|^deactivate link$"
 dellink2 = "Deactivate link"
+
+floodset = "^floodset$|^flood set$"
