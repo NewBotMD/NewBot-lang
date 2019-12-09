@@ -404,3 +404,6 @@ you can enable the file by sending files"""
 
 Files = """Here are the files from Bot
 you can enable or disable the file by clicking"""
+
+NOaddfiles2 = "Sorry there ar no files in bot you can add files by sending add files"
+
