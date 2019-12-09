@@ -393,3 +393,14 @@ Tres = "mute"
 fset = "flood set :- {}"
 Tfset = "You can change flood set to (ban |mute)"
 
+NOaddfiles = "Sorry there are no files from <a href=\"http://t.me/nbbot\">(NewBot)</a>"
+
+addFiles = """Here are the files from <a href=\"http://t.me/nbbot\">(NewBot)</a>
+you can download file by clicking"""
+
+
+Dua = """Done (download/update) ({})
+you can enable the file by sending files"""
+
+Files = """Here are the files from Bot
+you can enable or disable the file by clicking"""
