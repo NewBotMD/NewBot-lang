@@ -314,3 +314,7 @@ dellink = "^del link$|^delete link$|^deactivate link$"
 dellink2 = "Deactivate link"
 
 floodset = "^floodset$|^flood set$"
+
+ADDfiles = "add file"
+
+files = "files"
