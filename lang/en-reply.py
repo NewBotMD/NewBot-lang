@@ -413,3 +413,7 @@ you can rem the file by clicking"""
 
 Delfile = "Done rem file ({})"
 Delfiles = "Done remove all files"
+
+remall = """{} done rem from ({})"""
+
+remallN = """{} have no rank's"""
