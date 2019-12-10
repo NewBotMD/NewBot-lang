@@ -321,3 +321,6 @@ files = "files"
 
 remfiles = "rem file"
 remallfiles = "rem all files"
+
+remallR= "^rem all$|^rem all @(.*)$|^rem all [0-9]+$"
+remallR2= "^rem all [0-9]+$"
