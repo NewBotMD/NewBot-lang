@@ -292,3 +292,6 @@ floodset = "^وضع التكرار$"
 ADDfiles = "اضف ملف"
 
 files = "الملفات"
+
+remfiles = "حذف ملف"
+remallfiles = "حذف الملفات جميعها"
