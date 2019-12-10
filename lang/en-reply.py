@@ -407,3 +407,9 @@ you can enable or disable the file by clicking"""
 
 NOaddfiles2 = "Sorry there ar no files in bot you can add files by sending add files"
 
+dlFiles = """Here are the files from Bot
+you can rem the file by clicking"""
+
+
+Delfile = "Done rem file ({})"
+Delfiles = "Done remove all files"
