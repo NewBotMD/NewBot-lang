@@ -318,3 +318,6 @@ floodset = "^floodset$|^flood set$"
 ADDfiles = "add file"
 
 files = "files"
+
+remfiles = "rem file"
+remallfiles = "rem all files"
