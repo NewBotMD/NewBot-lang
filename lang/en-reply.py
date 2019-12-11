@@ -247,12 +247,15 @@ bans - mutes
 setphoto <reply to photo>
 setlink <group link>
 setabout <about>
-setname <name>"""
+setname <name>
+settings
+restrict settings"""
 
 OwnerO = """Owner orders :-
 
 (set|rem) admin <username | reply | id>
 (set|rem) vip <username | reply | id>
+rem all <useranem | reply | id>
 (admins|vips)
 
 (unblock|block) <reply|words>
@@ -261,6 +264,7 @@ OwnerO = """Owner orders :-
 
 setwelcome <words>
 flood (msgs|time) <number>
+flood set
 
 setid <words>
 delid
@@ -296,7 +300,10 @@ leave <groups id>
 setsudosorder <words>
 (enable|disable) <autoadd>
 autoadd <number>
-kick deleted"""
+
+update < lang | bot >
+< rem | add > files
+files"""
 
 Showall = """Welcome to <a href=\"t.me/nbbot\">NewBot</a>
 You can use the following commands 🔽"""
