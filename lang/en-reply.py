@@ -424,3 +424,14 @@ Delfiles = "Done remove all files"
 remall = """{} done rem from ({})"""
 
 remallN = """{} have no rank's"""
+
+
+RKgp = "groups"
+RKgpl = "groups links"
+RKaf = "add file"
+RKrf = "rem file"
+RKf = "files"
+RKub = "update bot"
+RKul = "update lang"
+sudostart = """Welcome , BasicSudo
+you can use the orders down blow 🔽"""
