@@ -329,7 +329,7 @@ SudosC = "Sudo orders"
 SudoC = "BasicSudo orders"
 
 
-ShowGPN = "{}- الاسم :- ({})\nالايدي :- (`{}`)"
+ShowGPN = "{}- Name :- ({})\ID :- (`{}`)"
 
 AsPh = '''💬 {}
 📊 {}
