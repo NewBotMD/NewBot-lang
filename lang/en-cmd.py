@@ -324,3 +324,6 @@ remallfiles = "rem all files"
 
 remallR= "^rem all$|^rem all @(.*)$|^rem all [0-9]+$"
 remallR2= "^rem all [0-9]+$"
+
+deletebans = "^clean bans$"
+deleterks = "^clean mutes$"
