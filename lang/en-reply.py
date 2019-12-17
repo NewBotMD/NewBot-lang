@@ -329,7 +329,7 @@ SudosC = "Sudo orders"
 SudoC = "BasicSudo orders"
 
 
-ShowGPN = "{}- Name :- ({})\nID :- (<code>{}</code>)"
+ShowGPN = "{}- الاسم :- ({})\nالايدي :- (`{}`)"
 
 AsPh = '''💬 {}
 📊 {}
@@ -435,3 +435,10 @@ RKub = "update bot"
 RKul = "update lang"
 sudostart = """Welcome , BasicSudo
 you can use the orders down blow 🔽"""
+
+
+Lenbans= "there {} bans in the group i will unban them"
+NobansC = "Sorry there are no bans in the group"
+
+Lenrks= "there {} mutes in the group i will unmute them"
+NorksC = "Sorry there are no mutes in the group"
