@@ -295,7 +295,7 @@ LIDpt = "enable bt id"
 UIDpt = "disabl bt id"
 
 LID = "enable id"
-UID = "disabl id"
+UID = "disable id"
 
 
 LIDPH = "^enable ph id$"
