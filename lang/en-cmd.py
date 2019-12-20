@@ -327,3 +327,4 @@ remallR2= "^rem all [0-9]+$"
 
 deletebans = "^clean bans$"
 deleterks = "^clean mutes$"
+tagall = "^tagall$"
