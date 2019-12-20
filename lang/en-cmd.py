@@ -292,7 +292,7 @@ RsetIDC = "setid "
 delIDC = "^delid$"
 
 LIDpt = "enable bt id"
-UIDpt = "disabl bt id"
+UIDpt = "disable bt id"
 
 LID = "enable id"
 UID = "disable id"
