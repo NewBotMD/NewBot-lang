@@ -1,13 +1,13 @@
-doneadd = """Done add the group ({})
+doneadd = """Done add the group ([{}])
 and promote admins and creator"""
 
-doneadd2 = "Done add the group <b>{}</b>"
+doneadd2 = "Done add the group [{}]"
 
-doneadded = "Group <b>{}</b> already added"
+doneadded = "Group [{}] already added"
 
-disabled = "Group <b>{}</b> already removed"
+disabled = "Group [{}] already removed"
 
-disabl = "Done removed group <b>{}</b>\nthe data's of this group will deleted in 24h"
+disabl = "Done removed group [{}]\nthe data's of this group will deleted in 24h"
 
 
 userNocc = "Sorry I can't get the (user/id)"
