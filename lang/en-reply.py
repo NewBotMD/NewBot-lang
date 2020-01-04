@@ -442,3 +442,8 @@ NobansC = "Sorry there are no bans in the group"
 
 Lenrks= "there {} mutes in the group i will unmute them"
 NorksC = "Sorry there are no mutes in the group"
+
+addor = " ({}) add to ?"
+Daddor = "add ({}) to ({})"
+SRph = "Done save the Photo ({})"
+SRfi = "Done save the File ({})"
