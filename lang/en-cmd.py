@@ -328,3 +328,11 @@ remallR2= "^rem all [0-9]+$"
 deletebans = "^clean bans$"
 deleterks = "^clean mutes$"
 tagall = "^tagall$"
+
+addor = "^add or (.*)$"
+
+orvip = "set vip"
+orad = "set admin"
+orow = "set owner"
+ortk = "mute"
+orban = "ban"
