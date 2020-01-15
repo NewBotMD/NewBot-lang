@@ -311,3 +311,6 @@ orad = "رفع ادمن"
 orow = "رفع مدير"
 ortk = "تقيد"
 orban = "حظر"
+
+Lbancheck = "تفعيل التحقق"
+Ubancheck = "تعطيل التحقق"
