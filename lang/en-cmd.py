@@ -336,3 +336,6 @@ orad = "set admin"
 orow = "set owner"
 ortk = "mute"
 orban = "ban"
+
+Lbancheck = "enable twostep"
+Ubancheck = "disable twostep"
