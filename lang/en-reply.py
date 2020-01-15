@@ -447,3 +447,16 @@ addor = " ({}) add to ?"
 Daddor = "add ({}) to ({})"
 SRph = "Done save the Photo ({})"
 SRfi = "Done save the File ({})"
+
+checkmem "Sorry {} You must confirm that you are not a robot\nPress Yes to complete verification\nPress No to finish and fire you"
+certain = "Certain"
+notcertain = "Not certain"
+ucertain = "Are you sure?"
+bancheck = "Member {} was banned from group\nbecause it didn't verify"
+
+ReIDnPT = """ID :- {ReID}
+Username :- {Reus}
+Rank :- {Rerank}
+Msgs :- ({Remsgs})
+Edits :- ({Reedits})
+Rate :- ({Rerate})"""
