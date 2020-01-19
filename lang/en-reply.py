@@ -448,15 +448,55 @@ Daddor = "add ({}) to ({})"
 SRph = "Done save the Photo ({})"
 SRfi = "Done save the File ({})"
 
-checkmem "Sorry {} You must confirm that you are not a robot\nPress Yes to complete verification\nPress No to finish and fire you"
+checkmem = "Sorry {} You must confirm that you are not a robot\nPress Yes to complete verification\nPress No to finish and fire you"
+checkmem2 = "Sorry {} You must confirm that you are not a robot\nChoose the correct answer to solve the equation\n{}"
 certain = "Certain"
 notcertain = "Not certain"
 ucertain = "Are you sure?"
-bancheck = "Member {} was banned from group\nbecause it didn't verify"
+bancheck = "The member {} was banned from group\nbecause he/she didn't verify"
+
+age = {"older_than":"older than","newer_than":"newer than","aprox":"~"}
+
+tset = "twostep mode : {}"
+Ttset = "You can change the two-step mode to (two-step | equations)"
+Teq = "equations"
+Ttwo = "two-step"
 
 ReIDnPT = """ID :- {ReID}
 Username :- {Reus}
 Rank :- {Rerank}
 Msgs :- ({Remsgs})
 Edits :- ({Reedits})
-Rate :- ({Rerate})"""
+Rate :- ({Rerate})
+Date created :- {Rage}"""
+
+IDnPT = '''ID :- {id}
+Username :- {us}
+Rank :- {rk}
+Msgs :- {msgs}
+Edits :- {edits}
+Rate :- {rate}
+Date created :- {age}'''
+
+Rage = "Date created :- {}"
+
+OwnerO = """Owner orders :-
+
+(set|rem) admin <username | reply | id>
+(set|rem) vip <username | reply | id>
+rem all <useranem | reply | id>
+(admins|vips)
+
+(unblock|block) <reply|words>
+(add|rem)reply <words>
+(replys|blocks)
+
+setwelcome <words>
+flood (msgs|time) <number>
+flood set
+twostep set
+
+setid <words>
+delid
+
+(enable|disable) <twostep | welcome | flood | replys | replysbot | kickme | id | ph id | bt id>"""
