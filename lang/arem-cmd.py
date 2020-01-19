@@ -314,3 +314,6 @@ orban = "حظر"
 
 Lbancheck = "تفعيل التحقق"
 Ubancheck = "تعطيل التحقق"
+STbancheck = "التحقق"
+
+twostepset = "^وضع التحقق$"
