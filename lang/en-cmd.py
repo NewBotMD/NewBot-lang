@@ -339,3 +339,5 @@ orban = "ban"
 
 Lbancheck = "enable twostep"
 Ubancheck = "disable twostep"
+STbancheck = "twostep"
+twostepset = "^twostep mode$"
