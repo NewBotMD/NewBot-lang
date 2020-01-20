@@ -12,25 +12,25 @@ disabl = "Done removed group [{}]\nthe data's of this group will deleted in 24h"
 
 userNocc = "Sorry I can't get the (user/id)"
 
-locked = "<b>By :-</b> {} <b>{} already lock</b>" 
-lock = "<b>By :-</b> {} <b>locked {} in group</b>" 
+locked = "<b>By :</b> {} <b>{} already lock</b>" 
+lock = "<b>By :</b> {} <b>locked {} in group</b>" 
 
-unlocked = "<b>By :-</b> {} <b>{} already unlock</b>" 
-unlock = "<b>By :-</b> {} <b>unlock {} in group</b>"
+unlocked = "<b>By :</b> {} <b>{} already unlock</b>" 
+unlock = "<b>By :</b> {} <b>unlock {} in group</b>"
 kickbotadd = "Done kick the bot <a href='http://t.me/{}'>{}</a>"
 
-ADDed = "<b>By :-</b> {} <b>{} already enable</b>" 
-ADD = "<b>By :-</b> {} <b>enable {} in group</b>" 
+ADDed = "<b>By :</b> {} <b>{} already enable</b>" 
+ADD = "<b>By :</b> {} <b>enable {} in group</b>" 
 
-unADDed = "<b>By :-</b> {} <b>{} already disabled</b>" 
-unADD = "<b>By :-</b> {} <b>disable {} in group</b>"
+unADDed = "<b>By :</b> {} <b>{} already disabled</b>" 
+unADD = "<b>By :</b> {} <b>disable {} in group</b>"
 
 true = "✅"
 
 false = "❎"
 
 settings = "<b>Group settings - ({})</b>\n<b>✅ - unlocked | ❎ - locked</b>"
-st2 = "<b>Group settings - ({})\n✅ - enable | ❎ - disable\nFlood time :- ({})\nFlood msgs :- ({})</b>"
+st2 = "<b>Group settings - ({})\n✅ - enable | ❎ - disable\nFlood time : ({})\nFlood msgs : ({})</b>"
 
 
 
@@ -81,7 +81,7 @@ DoneSet = "<b>Done set {} ({})</b>"
 
 haveRc = "{} already muted"
 
-showlist = "{} list :-\n{}"
+showlist = "{} list :\n{}"
 listempty = "{} list epmty"
 creatorempty = "Creator epmty"
 listempty2 = "<b>The list is empty</b>"
@@ -138,7 +138,7 @@ DoneUNblock = "unblocked"
 DelallR = "You can clear reply list by clicking 🔽"
 Delall2R= "Clear all"
 
-Donewel = "<b>Change welcome to :- <b>({})</b>"
+Donewel = "<b>Change welcome to : <b>({})</b>"
 
 Sendreply = "Now send the reply for %s\n<b>{fn}</b> : first namen<b>{us}</b> : useranme\n<b>{id}</b> : ID\n<b>{rk}</b> : Rank\n<b>{cn}</b> : group title\nyou can use html"
 
@@ -186,12 +186,12 @@ Radmin = "Amdin"
 Rvip = "VIP"
 Rmember = "member"
 
-Rrank = "Rank :- {}"
-Rmsgs = "Msgs :- ({})"
-Rrate = "Rate :- ({})"
-Redits = "Edits :- ({})"
-RID = "ID :- {}"
-RIDPH = "Name :- {}\n ID :- {}"
+Rrank = "Rank : {}"
+Rmsgs = "Msgs : ({})"
+Rrate = "Rate : ({})"
+Redits = "Edits : ({})"
+RID = "ID : {}"
+RIDPH = "Name : {}\n ID : {}"
 RIDPHs = "Show you'r info"
 DPROadmins = "Done promote the admins in the bot"
 DsetSudosShow = "<b>Sudo order changed</b>"
@@ -202,16 +202,16 @@ sendto = "<b>Where you want to send?</b>"
 Dpinmsg = "<b>The message is pin</b>"
 Dunpinmsg = "<b>The message is unpin</b>"
 
-showstats = "<b>Bot statistics :-\nGroups :- ({})\nPV :- ({})</b>"
+showstats = "<b>Bot statistics :\nGroups : ({})\nPV : ({})</b>"
 
-showGPlk = "<b>group link :-</b>\n{}"
+showGPlk = "<b>group link :</b>\n{}"
 
 PRsendtoGP = "<b>I will send this msg to groups</b>"
 
 PRsendtoPR = "<b>I will send this msg to PM</b>"
 
-DsendtoGP = "Done sent to groups\nsent to :- <b>({})</b>\nnot sent :- <b>({})</b>"
-DsendtoPR = "Done sent to PV\nsent to :- <b>({})</b>\nnot sent  :- <b>({})</b>"
+DsendtoGP = "Done sent to groups\nsent to : <b>({})</b>\nnot sent : <b>({})</b>"
+DsendtoPR = "Done sent to PV\nsent to : <b>({})</b>\nnot sent  : <b>({})</b>"
 
 
 clickTOpv = "Go to PM"
@@ -219,7 +219,7 @@ clickTOpv = "Go to PM"
 Toolong = "Sorry the list is long to send in one msg, press the button to view the list in PM"
 
 DoneDelList = "The list has been cleared"
-SetAuto = "Done change autoadd number to :- ({})"
+SetAuto = "Done change autoadd number to : ({})"
 
 NoMember = "Sorry the member is not in the group"
 
@@ -238,7 +238,7 @@ banclick = "{} you are ban from useing the button's for 2m "
 NoDeleted = "Sorry there are no deleted accounts in the group"
 LenDeleted = "there {} deleted accounts in the group i will kick them"
 
-AdminO = """admins orders :-
+AdminO = """admins orders :
 
 ban <username | reply | id>
 mute <username | reply | id>
@@ -251,7 +251,7 @@ setname <name>
 settings
 restrict settings"""
 
-OwnerO = """Owner orders :-
+OwnerO = """Owner orders :
 
 (set|rem) admin <username | reply | id>
 (set|rem) vip <username | reply | id>
@@ -271,7 +271,7 @@ delid
 
 (enable|disable) <welcome | flood | replys | replysbot | kickme | id | ph id | bt id>"""
 
-CreatorO = """Creator orders :-
+CreatorO = """Creator orders :
 
 (set|rem) owner <username | reply | id>
 (enable|disable) <pin>
@@ -279,14 +279,14 @@ CreatorO = """Creator orders :-
 kick <deleted|bots>
 change lang"""
 
-SudosO = """sudo orders :-
+SudosO = """sudo orders :
 
 (add|rem) group
 (set|rem) creator <username | reply | id>
 (add|rem)replybot <words>
 replysbot"""
 
-SudoO = """BasicSudo orders :-
+SudoO = """BasicSudo orders :
 
 (set|rem) sudo <username | reply | id>
 (ban|unban)all <username | reply | id>
@@ -308,7 +308,7 @@ files"""
 Showall = """Welcome to <a href=\"t.me/nbbot\">NewBot</a>
 You can use the following commands 🔽"""
 
-LockO = """Lock and unlock orders:-
+LockO = """Lock and unlock orders:
 
 { lock|unlock }
 links | bots | video
@@ -319,7 +319,7 @@ sticker | fwd | username
 english | arabic | tag
 nf | edits | longtext
 
-PS :- use settings its easy"""
+PS : use settings its easy"""
 
 lockC = "lock's orders"
 AdminC = "Admins orders"
@@ -329,7 +329,7 @@ SudosC = "Sudo orders"
 SudoC = "BasicSudo orders"
 
 
-ShowGPN = "{}- Name :- ({})\ID :- (`{}`)"
+ShowGPN = "{}- Name : ({})\ID : (`{}`)"
 
 AsPh = '''💬 {}
 📊 {}
@@ -345,12 +345,12 @@ lang ={"ar":"🇮🇶 AR-Classic","en":"🇺🇸EN","arem":"🇮🇶 AR-Emoji"}
 
 
 
-IDnPT = '''ID :- {id}
-Username :- {us}
-Rank :- {rk}
-Msgs :- {msgs}
-Edits :- {edits}
-Rate :- {rate}'''
+IDnPT = '''ID : {id}
+Username : {us}
+Rank : {rk}
+Msgs : {msgs}
+Edits : {edits}
+Rate : {rate}'''
 
 
 DsetIDShow = "<b>Doen change ID text</b>"
@@ -386,7 +386,7 @@ sors = "The bot [{}] from source [NewBot](t.me/nbbot)"
 
 dellink = "Deactivate link for Telegram"
 
-botstart = """Hello :- {},
+botstart = """Hello : {},
 {}, protection for groups you can add me by <a href=\"http://t.me/{}?startgroup=botstart\">click here</a>"""
 
 
@@ -397,7 +397,7 @@ botstart = """👋🏻꒐ Welcome to {} protection bot for groups
 Tban = "ban"
 Tres = "mute"
 
-fset = "flood set :- {}"
+fset = "flood set : {}"
 Tfset = "You can change flood set to (ban |mute)"
 
 NOaddfiles = "Sorry there are no files from <a href=\"http://t.me/nbbot\">(NewBot)</a>"
@@ -462,25 +462,25 @@ Ttset = "You can change the two-step mode to (two-step | equations)"
 Teq = "equations"
 Ttwo = "two-step"
 
-ReIDnPT = """ID :- {ReID}
-Username :- {Reus}
-Rank :- {Rerank}
-Msgs :- ({Remsgs})
-Edits :- ({Reedits})
-Rate :- ({Rerate})
-Date created :- {Rage}"""
+ReIDnPT = """ID : {ReID}
+Username : {Reus}
+Rank : {Rerank}
+Msgs : ({Remsgs})
+Edits : ({Reedits})
+Rate : ({Rerate})
+Date created : {Rage}"""
 
-IDnPT = '''ID :- {id}
-Username :- {us}
-Rank :- {rk}
-Msgs :- {msgs}
-Edits :- {edits}
-Rate :- {rate}
-Date created :- {age}'''
+IDnPT = '''ID : {id}
+Username : {us}
+Rank : {rk}
+Msgs : {msgs}
+Edits : {edits}
+Rate : {rate}
+Date created : {age}'''
 
-Rage = "Date created :- {}"
+Rage = "Date created : {}"
 
-OwnerO = """Owner orders :-
+OwnerO = """Owner orders :
 
 (set|rem) admin <username | reply | id>
 (set|rem) vip <username | reply | id>
@@ -501,5 +501,5 @@ delid
 
 (enable|disable) <twostep | welcome | flood | replys | replysbot | kickme | id | ph id | bt id>"""
 
-prGPadmin = """Member :- {} 
+prGPadmin = """Member : {} 
 promote to admin in group"""
