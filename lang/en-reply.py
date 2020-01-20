@@ -500,3 +500,6 @@ setid <words>
 delid
 
 (enable|disable) <twostep | welcome | flood | replys | replysbot | kickme | id | ph id | bt id>"""
+
+prGPadmin = """Member :- {} 
+promote to admin in group"""
