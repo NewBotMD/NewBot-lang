@@ -341,3 +341,6 @@ Lbancheck = "enable twostep"
 Ubancheck = "disable twostep"
 STbancheck = "twostep"
 twostepset = "^twostep set$"
+
+setGPadmin = "^gpadmin$|^gpadmin @(.*)$|gpadmin [0-9]+$"
+setGPadmin2 = "^gpadmin [0-9]+$"
