@@ -344,3 +344,5 @@ twostepset = "^twostep set$"
 
 setGPadmin = "^gpadmin$|^gpadmin @(.*)$|gpadmin [0-9]+$"
 setGPadmin2 = "^gpadmin [0-9]+$"
+
+delmsgs = "^clear [0-9]+$"
