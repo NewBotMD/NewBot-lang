@@ -342,7 +342,7 @@ Ubancheck = "disable twostep"
 STbancheck = "twostep"
 twostepset = "^twostep set$"
 
-setGPadmin = "^gpadmin$|^gpadmin @(.*)$|gpadmin [0-9]+$"
-setGPadmin2 = "^gpadmin [0-9]+$"
+setGPadmin = "^set gpadmin$|^set gpadmin @(.*)$|^set gpadmin [0-9]+$"
+setGPadmin2 = "^set gpadmin [0-9]+$"
 
 delmsgs = "^clear [0-9]+$"
