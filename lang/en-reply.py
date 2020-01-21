@@ -483,7 +483,7 @@ Rage = "Date created : {}"
 OwnerO = """Owner orders :-
 
 (set|rem) admin <username | reply | id>
-(set|rem) admin group <username | reply | id>
+(set|rem) gpadmin <username | reply | id>
 (set|rem) vip <username | reply | id>
 rem all <useranem | reply | id>
 (admins|vips)
